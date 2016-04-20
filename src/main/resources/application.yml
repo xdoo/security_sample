@@ -28,8 +28,8 @@ facebook:
 # github oauth
 github:
   client:
-    clientId: bd1c0a783ccdd1c9b9e4
-    clientSecret: 1a9030fbca47a5b2c28e92f19050bb77824b5ad1
+    clientId: 2fd2fb66d1eae129149a
+    clientSecret: eae0cc78f355776cbc2f7194d52e1c8e28c23ade
     accessTokenUri: https://github.com/login/oauth/access_token
     userAuthorizationUri: https://github.com/login/oauth/authorize
     clientAuthenticationScheme: form
