@@ -33,6 +33,7 @@ github:
     accessTokenUri: https://github.com/login/oauth/access_token
     userAuthorizationUri: https://github.com/login/oauth/authorize
     clientAuthenticationScheme: form
+    preestablished.redirect.url: https://localhost:8080/drin
   resource:
     userInfoUri: https://api.github.com/user
     
