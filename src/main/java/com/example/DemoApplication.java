@@ -39,6 +39,12 @@ import org.springframework.web.filter.CompositeFilter;
 import org.springframework.web.filter.OncePerRequestFilter;
 import org.springframework.web.util.WebUtils;
 
+/*
+*++++++++++++++++++++++++++++++++++++++++++++++++
+* code for this tutorial:
+* https://spring.io/guides/tutorials/spring-boot-oauth2/
+*++++++++++++++++++++++++++++++++++++++++++++++++
+*/
 @SpringBootApplication
 @RestController
 @EnableOAuth2Client
